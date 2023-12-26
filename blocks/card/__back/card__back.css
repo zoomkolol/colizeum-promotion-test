@@ -1,0 +1,8 @@
+.card__back {
+  width: 300px;
+  height: 200px;
+  background-color: #faec31;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
